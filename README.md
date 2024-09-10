@@ -12,4 +12,4 @@ TV-SAM can be used for multimodal medical image zero-shot segmentation:
 The TV-SAM inference examples:
 ![本地图片描述](images/Figure5.png)
 
-We have developed and built a web tool for multimodal medical image segmentation, and the TV-SAM algorithm will be embedded into it. The URL for our segmentation platform will be provided later, and the related code will not be open-sourced at this point. Thank you for your attention.
+We have developed and built a web tool for multimodal medical image segmentation, and the TV-SAM algorithm will be embedded into it. The URL for our segmentation platform will be provided later, and while the related code will not be open-sourced here, it may be made available in the future. Thank you for your attention.
